@@ -1,7 +1,9 @@
 package pl.teenjavapl.projekty;
 
 public class Class {
-	System.out.println("Jakie nooby");
+	public static void main(String[] args) {
+		System.out.println("Jakie nooby");
+	}
 	
 	
 }

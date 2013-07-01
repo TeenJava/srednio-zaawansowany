@@ -3,6 +3,7 @@ package pl.teenjavapl.projekty;
 public class Class {
 	public static void main(String[] args) {
 		System.out.println("Jakie nooby");
+		System.out.,.zrobbladasdasdasdasdasd
 	}
 	
 	
